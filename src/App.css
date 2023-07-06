@@ -35,3 +35,15 @@
   overflow: hidden;
   gap: 15px;
 }
+@media screen and (max-width: 1200px) {
+  .AppClass{
+    grid-template-columns: 10% 50% auto;
+    overflow-y: scroll;
+  } 
+}
+
+@media screen and (max-width: 768px) {
+  .AppClass{
+    grid-template-columns: 1fr;
+  } 
+}
