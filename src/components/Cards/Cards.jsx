@@ -1,7 +1,7 @@
 import React from 'react'
 import {cardsData} from '../../Data/Data'
 import Card from '../Card/Card'
-
+import './Cards.css'
 const Cards = () => {
   return (
    <>
