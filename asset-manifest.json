@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactDashBoard/static/css/main.3bee908e.css",
+    "main.js": "/ReactDashBoard/static/js/main.40ced877.js",
+    "static/media/img1.png": "/ReactDashBoard/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/ReactDashBoard/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/ReactDashBoard/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/ReactDashBoard/index.html",
+    "main.3bee908e.css.map": "/ReactDashBoard/static/css/main.3bee908e.css.map",
+    "main.40ced877.js.map": "/ReactDashBoard/static/js/main.40ced877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bee908e.css",
+    "static/js/main.40ced877.js"
+  ]
+}
